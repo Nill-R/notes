@@ -1,3 +1,3 @@
 # notes
 
-https://github.com/Nill-R/notes/blob/main/new-utilites.md
+[Утилиты](https://github.com/Nill-R/notes/blob/main/new-utilites.md)
